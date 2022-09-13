@@ -1,0 +1,1 @@
+# Analisis-economico-del-consumo-de-fertilizantes-y-herbicidas-en-el-cultivo-de-arroz
