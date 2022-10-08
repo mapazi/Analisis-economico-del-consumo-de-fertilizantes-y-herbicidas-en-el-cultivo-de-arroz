@@ -1,5 +1,8 @@
 # Analisis-economico-del-consumo-de-fertilizantes-y-herbicidas-en-el-cultivo-de-arroz
 
+## Sitio web
+https://pagina-analisis-economico-arroz-maylen-paz.vercel.app/
+
 ## Objetivo
 Analizar si el uso intensivo de los fertilizantes y herbicidas favorecen en alcanzar la eficiencia técnica para optimizar la productividad del cultivo de arroz en la provincia del Guayas mediante un modelo econométrico basada en la función de producción Cobb-Douglas para el análisis de la frontera estocástica.
 
