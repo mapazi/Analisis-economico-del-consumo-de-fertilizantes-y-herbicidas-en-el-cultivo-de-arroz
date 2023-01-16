@@ -1,4 +1,4 @@
-# Analisis-economico-del-consumo-de-fertilizantes-y-herbicidas-en-el-cultivo-de-arroz
+# Analisis económico del consumo de fertilizantes y herbicidas en el cultivo de arroz
 
 ## Sitio web
 https://pagina-analisis-economico-arroz-maylen-paz.vercel.app/
